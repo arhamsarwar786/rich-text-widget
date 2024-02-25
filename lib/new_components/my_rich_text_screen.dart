@@ -18,11 +18,7 @@ class MyRichTextScreen extends StatelessWidget {
           TextSpan(text: " Pakistan", style: TextStyle(color: Colors.green, fontSize: 100, fontWeight: FontWeight.bold )),
         ]
       )),
-      // body: Row(children: [
-        // Text("I", style: TextStyle(color: Colors.red, fontSize: 100, fontWeight: FontWeight.bold ),),
-      //   Text("Love", style: TextStyle(color: Colors.blue, fontSize: 100, fontWeight: FontWeight.bold ),),
-      //   Text("Pakistan", style: TextStyle(color: Colors.green, fontSize: 100, fontWeight: FontWeight.bold ),),
-      // ],)
+     
     );
   }
 }
